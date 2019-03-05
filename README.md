@@ -2,7 +2,8 @@
 GUI Calculator
 ##age Four
 
-##We are about to make our buttons less useless. Remember the value self.click that we passed to the command attribute in method createButton? Go ahead, look up and search for it. I am waiting… Yup, that one, well let’s define it and some other helper methods too.
+##We are about to make our buttons less useless. Remember the value self.click that we passed to the command attribute in method createButton? 
+#Go ahead, look up and search for it. I am waiting… Yup, that one, well let’s define it and some other helper methods too.
 
 
 from tkinter import *
